@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\CompilerFrontend2.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\CompilerFrontend2.dir/objects.a @CMakeFiles\CompilerFrontend2.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\CompilerFrontend2.dir/objects.a -Wl,--no-whole-archive -o CompilerFrontend2.exe -Wl,--out-implib,libCompilerFrontend2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CompilerFrontend2.dir\linkLibs.rsp

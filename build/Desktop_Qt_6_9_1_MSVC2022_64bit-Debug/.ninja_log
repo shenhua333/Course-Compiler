@@ -1,0 +1,19 @@
+# ninja log v6
+52	475	7740253544347996	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cmake.verify_globs	240d790f31f3cb32
+406	949	7740090520863818	CompilerFrontend2_autogen/timestamp	5cc728b08f4ad3b1
+406	949	7740090520863818	CompilerFrontend2_autogen/mocs_compilation.cpp	5cc728b08f4ad3b1
+950	4949	7740090526304161	CMakeFiles/CompilerFrontend2.dir/mainwindow.cpp.obj	15257189ba55aa56
+406	949	7740090520863818	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CompilerFrontend2_autogen/timestamp	5cc728b08f4ad3b1
+406	949	7740090520863818	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CompilerFrontend2_autogen/mocs_compilation.cpp	5cc728b08f4ad3b1
+1240	4161	7738355950316872	CMakeFiles/CompilerFrontend2.dir/CompilerFrontend2_autogen/mocs_compilation.cpp.obj	69487ee69b5cc350
+1330	4156	7738355951219964	CMakeFiles/CompilerFrontend2.dir/main.cpp.obj	2809aa27a62959c
+4949	6129	7740090566294305	CompilerFrontend2.exe	43bf7b21ad9cf33c
+927	3259	7738620544028289	CMakeFiles/CompilerFrontend2.dir/lexer.cpp.obj	646b8ae460a28891
+261	1602	7740253557871613	build.ninja	ca06c54d332e9a32
+859	3373	7739006064131114	CMakeFiles/CompilerFrontend2.dir/parser.cpp.obj	68567b3a2cc62dcd
+411	597	7732981749788788	CMakeFiles/clean.additional	baedbe210acaa455
+597	740	7732981751645394	clean	50df5bec429335b4
+881	3125	7737296907665741	CMakeFiles/CompilerFrontend2.dir/CodeHighlighter.cpp.obj	615902bbd60881b8
+476	1962	7740253557871613	build.ninja	ca06c54d332e9a32
+19	363	7740253559980376	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cmake.verify_globs	240d790f31f3cb32
+17	354	7740256011552463	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/cmake.verify_globs	240d790f31f3cb32

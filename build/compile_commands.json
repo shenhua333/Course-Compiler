@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/BIANYI/CompilerFrontend2/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/CompilerFrontend2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CompilerFrontend2.dir\\CompilerFrontend2_autogen\\mocs_compilation.cpp.obj -c E:\\BIANYI\\CompilerFrontend2\\build\\CompilerFrontend2_autogen\\mocs_compilation.cpp",
+  "file": "E:/BIANYI/CompilerFrontend2/build/CompilerFrontend2_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/CompilerFrontend2.dir/CompilerFrontend2_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "E:/BIANYI/CompilerFrontend2/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/CompilerFrontend2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CompilerFrontend2.dir\\main.cpp.obj -c E:\\BIANYI\\CompilerFrontend2\\main.cpp",
+  "file": "E:/BIANYI/CompilerFrontend2/main.cpp",
+  "output": "CMakeFiles/CompilerFrontend2.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/BIANYI/CompilerFrontend2/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/CompilerFrontend2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CompilerFrontend2.dir\\mainwindow.cpp.obj -c E:\\BIANYI\\CompilerFrontend2\\mainwindow.cpp",
+  "file": "E:/BIANYI/CompilerFrontend2/mainwindow.cpp",
+  "output": "CMakeFiles/CompilerFrontend2.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "E:/BIANYI/CompilerFrontend2/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/CompilerFrontend2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CompilerFrontend2.dir\\lexer.cpp.obj -c E:\\BIANYI\\CompilerFrontend2\\lexer.cpp",
+  "file": "E:/BIANYI/CompilerFrontend2/lexer.cpp",
+  "output": "CMakeFiles/CompilerFrontend2.dir/lexer.cpp.obj"
+},
+{
+  "directory": "E:/BIANYI/CompilerFrontend2/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/CompilerFrontend2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CompilerFrontend2.dir\\parser.cpp.obj -c E:\\BIANYI\\CompilerFrontend2\\parser.cpp",
+  "file": "E:/BIANYI/CompilerFrontend2/parser.cpp",
+  "output": "CMakeFiles/CompilerFrontend2.dir/parser.cpp.obj"
+}
+]

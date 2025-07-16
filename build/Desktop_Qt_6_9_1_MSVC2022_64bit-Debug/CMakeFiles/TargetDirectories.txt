@@ -1,0 +1,8 @@
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/CompilerFrontend2.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/CompilerFrontend2_autogen_timestamp_deps.dir
+E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/CompilerFrontend2_autogen.dir

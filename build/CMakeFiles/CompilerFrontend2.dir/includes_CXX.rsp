@@ -1,0 +1,1 @@
+-IE:/BIANYI/CompilerFrontend2/build/CompilerFrontend2_autogen/include -isystem D:/Anaconda3/Library/include/qt -isystem D:/Anaconda3/Library/include/qt/QtWidgets -isystem D:/Anaconda3/Library/include/qt/QtGui -isystem D:/Anaconda3/Library/include/qt/QtANGLE -isystem D:/Anaconda3/Library/include/qt/QtCore -isystem "D:/Anaconda3/Library/./mkspecs/win32-msvc"

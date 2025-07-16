@@ -1,0 +1,170 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "E:/BIANYI/CompilerFrontend2/build/CompilerFrontend2_autogen",
+	"CMAKE_BINARY_DIR" : "E:/BIANYI/CompilerFrontend2/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/BIANYI/CompilerFrontend2/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/BIANYI/CompilerFrontend2",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/BIANYI/CompilerFrontend2/CMakeLists.txt",
+		"E:/BIANYI/CompilerFrontend2/build/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
+		"E:/BIANYI/CompilerFrontend2/build/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
+		"E:/BIANYI/CompilerFrontend2/build/CMakeFiles/3.30.5/CMakeRCCompiler.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake",
+		"D:/Anaconda3/Library/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/BIANYI/CompilerFrontend2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/BIANYI/CompilerFrontend2/ast.h",
+			"MU",
+			"EWIEGA46WW/moc_ast.cpp",
+			null
+		],
+		[
+			"E:/BIANYI/CompilerFrontend2/lexer.h",
+			"MU",
+			"EWIEGA46WW/moc_lexer.cpp",
+			null
+		],
+		[
+			"E:/BIANYI/CompilerFrontend2/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"E:/BIANYI/CompilerFrontend2/parser.h",
+			"MU",
+			"EWIEGA46WW/moc_parser.cpp",
+			null
+		],
+		[
+			"E:/BIANYI/CompilerFrontend2/token.h",
+			"MU",
+			"EWIEGA46WW/moc_token.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/BIANYI/CompilerFrontend2/build/CompilerFrontend2_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/BIANYI/CompilerFrontend2/build/CompilerFrontend2_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Anaconda3/Library/include/qt",
+		"D:/Anaconda3/Library/include/qt/QtWidgets",
+		"D:/Anaconda3/Library/include/qt/QtGui",
+		"D:/Anaconda3/Library/include/qt/QtANGLE",
+		"D:/Anaconda3/Library/include/qt/QtCore",
+		"D:/Anaconda3/Library/mkspecs/win32-msvc",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/BIANYI/CompilerFrontend2/build/CompilerFrontend2_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "E:/BIANYI/CompilerFrontend2/build/CMakeFiles/CompilerFrontend2_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Anaconda3/Library/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/Anaconda3/Library/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "E:/BIANYI/CompilerFrontend2/build/CMakeFiles/CompilerFrontend2_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "E:/BIANYI/CompilerFrontend2/lexer.cpp", "MU", null ],
+		[ "E:/BIANYI/CompilerFrontend2/main.cpp", "MU", null ],
+		[ "E:/BIANYI/CompilerFrontend2/mainwindow.cpp", "MU", null ],
+		[ "E:/BIANYI/CompilerFrontend2/parser.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

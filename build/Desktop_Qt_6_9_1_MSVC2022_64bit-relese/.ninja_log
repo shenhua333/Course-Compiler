@@ -1,0 +1,15 @@
+# ninja log v6
+19	349	7740253440161421	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-relese/CMakeFiles/cmake.verify_globs	23e2ea146654788c
+1908	3918	7740154899295766	CMakeFiles/CompilerFrontend2.dir/CodeHighlighter.cpp.obj	1c7ce57859f070c9
+349	1384	7740154892207486	CompilerFrontend2_autogen/timestamp	ffe470f1623d8800
+349	1384	7740154892207486	CompilerFrontend2_autogen/mocs_compilation.cpp	ffe470f1623d8800
+349	1384	7740154892207486	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-relese/CompilerFrontend2_autogen/timestamp	ffe470f1623d8800
+1391	4566	7740154894126126	CMakeFiles/CompilerFrontend2.dir/CompilerFrontend2_autogen/mocs_compilation.cpp.obj	f47eb1c7f47c5e4b
+349	1384	7740154892207486	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-relese/CompilerFrontend2_autogen/mocs_compilation.cpp	ffe470f1623d8800
+1700	3898	7740154897213797	CMakeFiles/CompilerFrontend2.dir/lexer.cpp.obj	3c5117897c166019
+1495	4573	7740154895160117	CMakeFiles/CompilerFrontend2.dir/main.cpp.obj	cffda2dec6a884b2
+1798	4823	7740154898202933	CMakeFiles/CompilerFrontend2.dir/parser.cpp.obj	2156ac97d839f3a2
+1598	5376	7740154896199087	CMakeFiles/CompilerFrontend2.dir/mainwindow.cpp.obj	5b1bd3b509c2a59d
+5376	5998	7740154933977756	CompilerFrontend2.exe	11e0e810a55b8550
+349	2110	7740253457561159	build.ninja	8d46ab41094b6d8e
+13	379	7740253459217854	E:/BIANYI/CompilerFrontend2/build/Desktop_Qt_6_9_1_MSVC2022_64bit-relese/CMakeFiles/cmake.verify_globs	23e2ea146654788c
