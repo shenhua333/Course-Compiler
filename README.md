@@ -29,7 +29,7 @@ GUI框架: Qt 6.9.1
 环境要求:
 Qt 6.9+ [下载链接](https://www.qt.io/download)
 CMake 3.20+
-编译步骤
+## 编译步骤
 bash
 ### 克隆仓库
 git clone https://github.com/你的用户名/Compiler-Frontend.git
