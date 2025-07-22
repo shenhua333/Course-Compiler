@@ -24,6 +24,8 @@ GUI框架: Qt 6.9.1
   	作用域栈+哈希表（符号表管理）
 
 ## 界面截图
+<img width="461" height="380" alt="image" src="https://github.com/user-attachments/assets/bafa254d-6ca1-4185-83c8-39e351133744" />
+
 在word里面有
 ## 如何运行?
 环境要求:
